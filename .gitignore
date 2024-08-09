@@ -1,0 +1,10 @@
+/build_*/
+/cache/
+/node_modules/
+/vendor/
+/.idea/
+/.vscode/
+npm-debug.log
+
+# Optional ignores
+/source/assets/build/
